@@ -11,17 +11,6 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
- <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=FFCD1E&labelColor=FF008E" alt="License">
-  
-  <img src="https://img.shields.io/github/forks/brunonielsen93/
-NLW-Heat?label=forks&message=MIT&color=FFCD1E&labelColor=FF008E" alt="Forks">
-
-<img src="https://img.shields.io/github/stars/brunonielsen93/
-NLW-Heat?label=stars&message=MIT&color=FFCD1E&labelColor=FF008E" alt="Stars">
-
-</p>
-
 <br>
 
 <p align="center">
